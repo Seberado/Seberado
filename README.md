@@ -30,7 +30,11 @@
 <img align="left" alt="Seberado's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seberado&show_icons=true&hide_border=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seberado&theme=light&hide_langs_below=1" />
+
+<br /><br />
 <br />
+
+---
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr

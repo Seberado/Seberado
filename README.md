@@ -52,7 +52,7 @@
 
 ### Github Stats:
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Seberado's Github Stats" src="https://github-readme-stats.Seberado.vercel.app/api?username=Seberado&show_icons=true&hide_border=true" />
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />

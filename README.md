@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -30,7 +30,7 @@
 <img align="left" alt="Seberado's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seberado&show_icons=true&hide_border=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seberado&theme=light&hide_langs_below=1" />
-
+<br />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr

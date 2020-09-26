@@ -85,3 +85,6 @@
 </a>
 <a href="https://github.com/Seberado">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seberado&show_icons=true&theme=light&line_height=27" alt="Seberado github stats"/>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+

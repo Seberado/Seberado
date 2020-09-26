@@ -80,9 +80,7 @@
 
 ### Github Stats:
 
-<a href="https://github.com/Seberado">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seberado&langs_count=8)](https://github.com/Seberado/github-readme-stats)
-</a>
 <a href="https://github.com/Seberado">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seberado&show_icons=true&theme=light&line_height=27" alt="Seberado github stats"/>
 

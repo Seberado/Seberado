@@ -80,7 +80,4 @@
 
 
 
-<a href="https://github.com/Seberado/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Seberado.vercel.app/api?username=Seberado&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

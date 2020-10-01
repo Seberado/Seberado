@@ -34,8 +34,8 @@ Hi, I'm Manish Joshi, a passionate and Creative Software Engineer from India.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seberado&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" alt="Manish's github stats" />
 </a>
-<a href="https://github.com/AdReVice/AdReVice.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seberado&repo=AdReVice.github.io&theme=buefy" />
+<a href="https://github.com/Seberado/Seberado.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seberado&repo=Seberado.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/AdReVice/JqxGrid_Excel_Export">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seberado&repo=JqxGrid_Excel_Export&theme=buefy" />

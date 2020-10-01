@@ -29,15 +29,15 @@ Hi, I'm Manish Joshi, a passionate and Creative Software Engineer from India.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/AdReVice/github-readme-stats)*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdreVice&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seberado&layout=compact&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdReVice&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" alt="Manish's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seberado&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" alt="Manish's github stats" />
 </a>
 <a href="https://github.com/AdReVice/AdReVice.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdReVice&repo=AdReVice.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seberado&repo=AdReVice.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/AdReVice/JqxGrid_Excel_Export">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdReVice&repo=JqxGrid_Excel_Export&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seberado&repo=JqxGrid_Excel_Export&theme=buefy" />
 </a>
 

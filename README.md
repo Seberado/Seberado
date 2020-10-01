@@ -80,5 +80,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdreVice&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seberado&layout=compact&theme=buefy" />
 </a>
